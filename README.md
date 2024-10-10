@@ -11,8 +11,8 @@ I'm a Software Engineer with a passion for building scalable applications.
 - Flutter and Firebase for mobile app development
   
 ## 🎓 Education Journey 
- - I'm pursuing an M.Sc. in IT specializing in Enterprise Application Development at SLIIT, Sri Lanka.
- - I have obtained a B.Sc. (Hons) in Computer Science from University College Dublin, Ireland.
+ - I'm pursuing an M.Sc. in IT specializing in Enterprise Application Development at [SLIIT, Sri Lanka](https://www.sliit.lk/).
+ - I have obtained a B.Sc. (Hons) in Computer Science from [University College Dublin, Ireland](https://www.ucd.ie/).
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/pubudhiwitharana/)

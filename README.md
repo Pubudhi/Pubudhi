@@ -9,7 +9,7 @@ I'm a Software Engineer with a passion for building scalable applications.
 
 ## 🌱 Currently Learning
 - Flutter and Firebase for mobile app development
-- Enterprise Architecture
+- Enterprise Software Architecture Analysis and Practices
 - DevOps
   
 ## 🎓 Education Journey 

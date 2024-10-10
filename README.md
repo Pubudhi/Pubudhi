@@ -9,6 +9,8 @@ I'm a Software Engineer with a passion for building scalable applications.
 
 ## 🌱 Currently Learning
 - Flutter and Firebase for mobile app development
+- Enterprise Architecture
+- DevOps
   
 ## 🎓 Education Journey 
  - I'm pursuing an M.Sc. in IT specializing in Enterprise Application Development at [SLIIT, Sri Lanka](https://www.sliit.lk/).
@@ -16,7 +18,8 @@ I'm a Software Engineer with a passion for building scalable applications.
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/pubudhiwitharana/)
-
+## ⚡ Fun fact
+ - 🎨 Abstract Art Lover | 🍲 Foodie at Heart| 🎶 Music Inspiration
 
 
 <!--

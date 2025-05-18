@@ -7,14 +7,13 @@ I'm a Software Engineer with a passion for building scalable applications.
 - Microservices, RESTful APIs
 - Cloud Platforms: AWS, Azure
 
-## 🌱 Currently Learning
-- Flutter and Firebase for mobile app development
+## 🌱 Currently Learning and curious about learning and experience
+- Linux and Data centre technologies
 - Enterprise Software Architecture Analysis and Practices
-- DevOps
   
 ## 🎓 Education Journey 
- - I'm pursuing an M.Sc. in IT specializing in Enterprise Application Development at [SLIIT, Sri Lanka](https://www.sliit.lk/).
- - I have obtained a B.Sc. (Hons) in Computer Science from [University College Dublin, Ireland](https://www.ucd.ie/).
+ - M.Sc. in IT specializing in Enterprise Application Development(Reading) at [SLIIT, Sri Lanka](https://www.sliit.lk/).
+ - B.Sc. (Hons) in Computer Science(2018) from [University College Dublin, Ireland](https://www.ucd.ie/).
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/pubudhiwitharana/)

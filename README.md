@@ -12,8 +12,8 @@ I'm a Software Engineer with a passion for building scalable applications.
 - Enterprise Software Architecture Analysis and Practices
   
 ## 🎓 Education Journey 
- - M.Sc. in IT specializing in Enterprise Application Development(Reading) at [SLIIT, Sri Lanka](https://www.sliit.lk/).
- - B.Sc. (Hons) in Computer Science(2018) from [University College Dublin, Ireland](https://www.ucd.ie/).
+ - M.Sc. in IT specializing in Enterprise Application Development (Reading) at [SLIIT, Sri Lanka](https://www.sliit.lk/).
+ - B.Sc. (Hons) in Computer Science (2018) from [University College Dublin, Ireland](https://www.ucd.ie/).
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/pubudhiwitharana/)
